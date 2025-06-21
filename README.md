@@ -20,10 +20,6 @@ This project analyzes sales data from an online retailer to uncover category tre
 - Customer reviews matter more for premium products
 - Ad spend does not strongly correlate with sales volume
 
-### 🗂️ Files
-- `notebooks/`: Main analysis
-- `assets/`: Visuals for presentation
-- `README.md`: You're reading it 😄
 
 ### 🤖 AI Collaboration
 Used ChatGPT for:
@@ -32,3 +28,7 @@ Used ChatGPT for:
 - Sanity checks for modeling
 
 Final decisions were made based on manual inspection of results and business reasoning.
+
+I followed a structured approach: cleaned the data, converted currencies, filled missing values, and created new features like ad efficiency and price differential. I analyzed trends using visualizations and regression. I found that while competitor pricing had limited direct impact, ad spend and product category played a more meaningful role. Finally, I proposed pricing strategies and ad budget allocation to improve performance.
+
+
