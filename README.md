@@ -1,27 +1,27 @@
 # lognormal-sales-analysis
 
-# 📈 AI x Human: Lognormal Sales Analysis
+#  AI x Human: Lognormal Sales Analysis
 
 This project analyzes sales data from an online retailer to uncover category trends, price sensitivity, and advertising effectiveness.
 
-### 🔍 Objectives
+###  Objectives
 - Segment influence on sales
 - Competitor price impact
 - Trend detection
 - Extra drivers like reviews, weather, social buzz
 
-### 🧠 Tools Used
+###  Tools Used
 - Python (pandas, seaborn, statsmodels)
 - AI support via ChatGPT (documented below)
 - Manual decisions on imputation, feature creation, modeling
 
-### 🚀 Key Insights
+###  Key Insights
 - Price differential had minimal impact across categories
 - Customer reviews matter more for premium products
 - Ad spend does not strongly correlate with sales volume
 
 
-### 🤖 AI Collaboration
+###  AI Collaboration
 Used ChatGPT for:
 - Brainstorming metrics (e.g., Ad Efficiency, Price Differential)
 - Visual analysis ideas
